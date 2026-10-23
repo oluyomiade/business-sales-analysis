@@ -8,7 +8,9 @@ The goal is to turn raw sales data into useful business insights using Python, S
 
 ## Dashboard Preview
 
-![Business Sales Analysis Dashboard](![Business Sales Analysis Dashboard](Business%20Sales%20Analysis.jpg))
+## Dashboard Preview
+
+![Business Sales Analysis Dashboard](Business%20Sales%20Analysis.jpg)
 
 ## Tools Used
 
