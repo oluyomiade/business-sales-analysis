@@ -6,6 +6,10 @@ This project analyses business sales data to evaluate sales performance, profita
 
 The goal is to turn raw sales data into useful business insights using Python, SQL, and Microsoft Excel.
 
+## Dashboard Preview
+
+![Business Sales Analysis Dashboard](Business Sales Analysis.jpg)
+
 ## Tools Used
 
 - **Python:** Data inspection, analysis, calculations, and visualisation using pandas and Matplotlib.
