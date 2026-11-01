@@ -54,6 +54,20 @@ The results highlight the importance of examining profitability rather than rely
 
 Higher discount levels were associated with weaker average profitability in the analysed data. This relationship warrants further investigation, but it does not by itself establish that discounts caused the losses.
 
+## Recommendations
+
+Based on the analysis, the following business recommendations are proposed:
+
+1. **Improve Furniture Profitability:** The Furniture category recorded a relatively low profit margin of 2.61%. The business should review product pricing, operating costs, and discount strategies within this category to identify opportunities to improve profitability.
+
+2. **Address Regional Profitability:** The Central region recorded the lowest profit margin at 7.92%. Further investigation into its product mix, pricing, and discount patterns could help identify the factors affecting its profitability.
+
+3. **Review Loss-Making Products:** Products such as Cisco TelePresence and GBC DocuBind P400 recorded negative profits. The business should investigate their pricing, costs, and discount levels to determine appropriate corrective actions.
+
+4. **Optimise Discount Strategies:** The analysis of average profit across discount levels provides an opportunity to review how discounting relates to profitability. The business should evaluate whether its discount policies are supporting sales without unnecessarily reducing profit.
+
+5. **Monitor Product and Regional Performance:** Regular monitoring of product-level and regional profit margins can help management identify underperforming areas early and make informed decisions about pricing, product selection, and sales strategies.
+
 ### Sales Trends
 
 The dataset contains records through 2026. Because 2026 is incomplete, its total should not be compared with previous full years as though all periods cover the same length of time.
